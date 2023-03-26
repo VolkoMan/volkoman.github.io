@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <p>Klik hier onderin om mijn CV te bekijken.</p>
